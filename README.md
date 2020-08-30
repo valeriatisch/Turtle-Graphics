@@ -3,7 +3,7 @@
 ## Circle Spirograph
 <p align="center">
 ![](Circle-Spirograph/CircleSpirograph.gif)
-<\p>
+</p>
 ## Cube
 
 ![](Cube/Cube.gif)
