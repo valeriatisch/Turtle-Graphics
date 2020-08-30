@@ -1,9 +1,9 @@
 # Turtle-Graphics
   
 ## Circle Spirograph
-<div align="center">
-![](Circle-Spirograph/CircleSpirograph.gif)
-</div>
+<p align="center">
+  <img src="Circle-Spirograph/CircleSpirograph.gif" alt="animated" />
+</p>
 ## Cube
 <div align="center">
 ![](Cube/Cube.gif)
