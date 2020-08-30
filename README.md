@@ -2,7 +2,7 @@
 
 ## Circle Spirograph
 
-![](Circle Spirograph/Circle Spirograph.gif)
+![](Circle \Spirograph/Circle Spirograph.gif)
 
 ## Cube
 
