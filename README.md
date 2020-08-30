@@ -14,7 +14,7 @@
 
 ## Mandelbrot
 
-<img src="Mandelbrot/mandelbrot.png" width=300>
+<img src="Mandelbrot/mandelbrot.png" width=400>
 
 ## Square Spirograph
 
