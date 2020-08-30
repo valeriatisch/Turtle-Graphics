@@ -2,7 +2,7 @@
 
 ## Circle Spirograph
 
-![](Circle \Spirograph/Circle Spirograph.gif)
+![](Circle-Spirograph/CircleSpirograph.gif)
 
 ## Cube
 
@@ -10,7 +10,7 @@
 
 ## Koch Snowflake
 
-![](Koch Snowflake/Koch Snowflake.gif)
+![](Koch-Snowflake/KochSnowflake.gif)
 
 ## Mandelbrot
 
@@ -18,7 +18,7 @@
 
 ## Square Spirograph
 
-![](Square Spirograph/Square Spirograph.gif)
+![](Square-Spirograph/SquareSpirograph.gif)
 
 ## Tree
 
@@ -26,8 +26,8 @@
 
 ## Turtle Race Game
 
-![](Turtle Race Game/Turtle Race.gif)
+![](Turtle-Race-Game/TurtleRace.gif)
 
 ## Vibrate Circle
 
-![](Vibrate Circle/Vibrate Circle.gif)
+![](Vibrate-Circle/VibrateCircle.gif)
