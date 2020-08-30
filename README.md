@@ -4,7 +4,7 @@
 
 ## Cube
 
-![](Cube/Cube.gif)
+![](Cube/Cube.gif width=300)
 
 ## Koch Snowflake
 
