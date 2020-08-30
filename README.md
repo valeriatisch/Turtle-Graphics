@@ -16,6 +16,7 @@
 </p>
 
 ## Mandelbrot
+* with Matplotlib 
 <div align="center">
 <img src="Mandelbrot/mandelbrot.png" width=400>
 </div>
