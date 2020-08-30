@@ -1,9 +1,9 @@
 # Turtle-Graphics
-<p align="center">
+
 ## Circle Spirograph
-
+<p align="center">
 ![](Circle-Spirograph/CircleSpirograph.gif)
-
+<\p>
 ## Cube
 
 ![](Cube/Cube.gif)
@@ -32,4 +32,3 @@
 
 ![](Vibrate-Circle/VibrateCircle.gif)
 
-</p>
