@@ -5,30 +5,30 @@
   <img src="Circle-Spirograph/CircleSpirograph.gif" alt="animated" />
 </p>
 ## Cube
-<div align="center">
-![](Cube/Cube.gif)
-</div>
+<p align="center">
+  <img src="Cube/Cube.gif" alt="animated" />
+</p>
 ## Koch Snowflake
-<div align="center">
-![](Koch-Snowflake/KochSnowflake.gif)
-</div>
+<p align="center">
+  <img src="Koch-Snowflake/KochSnowflake.gif" alt="animated" />
+</p>
 ## Mandelbrot
 <div align="center">
 <img src="Mandelbrot/mandelbrot.png" width=400>
 </div>
 ## Square Spirograph
-<div align="center">
-![](Square-Spirograph/SquareSpirograph.gif)
-</div>
+<p align="center">
+  <img src="Square-Spirograph/SquareSpirograph.gif" alt="animated" />
+</p>
 ## Tree
-<div align="center">
-![](Tree/Tree.gif)
-</div>
+<p align="center">
+  <img src="Tree/Tree.gif" alt="animated" />
+</p>
 ## Turtle Race Game
-<div align="center">
-![](Turtle-Race-Game/TurtleRace.gif)
-</div>
+<p align="center">
+  <img src="Turtle-Race-Game/TurtleRace.gif" alt="animated" />
+</p>
 ## Vibrate Circle
-<div align="center">
-![](Vibrate-Circle/VibrateCircle.gif)
-</div>
+<p align="center">
+  <img src="Vibrate-Circle/VibrateCircle.gif" alt="animated" />
+</p>
